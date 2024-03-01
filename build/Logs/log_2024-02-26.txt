@@ -1,0 +1,480 @@
+2024-02-26 00:35:29	[Akkiro] [+] Created Driver Handle
+2024-02-26 00:35:29	[Akkiro] [-] Failed to find cs2.
+2024-02-26 00:35:29	[Akkiro] [-] Failed to find Client.
+2024-02-26 00:35:29	[Akkiro] [-] Failed to attach.
+2024-02-26 00:36:58	[Akkiro] [+] Created Driver Handle
+2024-02-26 00:36:58	[Akkiro] [-] Failed to find cs2.
+2024-02-26 00:36:58	[Akkiro] [-] Failed to find Client.
+2024-02-26 00:36:58	[Akkiro] [-] Failed to attach.
+2024-02-26 00:37:20	[Akkiro] [+] Created Driver Handle
+2024-02-26 00:37:20	[Akkiro] [-] Failed to find cs2.
+2024-02-26 00:37:20	[Akkiro] [-] Failed to find Client.
+2024-02-26 00:37:20	[Akkiro] [-] Failed to attach.
+2024-02-26 00:37:27	[Akkiro] [+] Created Driver Handle
+2024-02-26 00:37:27	[Akkiro] [-] Failed to find cs2.
+2024-02-26 00:37:27	[Akkiro] [-] Failed to find Client.
+2024-02-26 00:37:27	[Akkiro] [-] Failed to attach.
+2024-02-26 00:37:36	[Akkiro] [+] Created Driver Handle
+2024-02-26 00:37:36	[Akkiro] [-] Failed to find cs2.
+2024-02-26 00:37:36	[Akkiro] [-] Failed to find Client.
+2024-02-26 00:37:36	[Akkiro] [-] Failed to attach.
+2024-02-26 00:37:49	[Akkiro] [+] Created Driver Handle
+2024-02-26 00:37:49	[Akkiro] [-] Failed to find cs2.
+2024-02-26 00:37:49	[Akkiro] [-] Failed to find Client.
+2024-02-26 00:37:49	[Akkiro] [-] Failed to attach.
+2024-02-26 00:38:03	[Akkiro] [+] Created Driver Handle
+2024-02-26 00:38:03	[Akkiro] [-] Failed to find cs2.
+2024-02-26 00:38:03	[Akkiro] [-] Failed to find Client.
+2024-02-26 00:38:03	[Akkiro] [-] Failed to attach.
+2024-02-26 00:50:01	[Akkiro] [+] Created Driver Handle
+2024-02-26 00:50:01	[Akkiro] [-] Failed to find cs2.
+2024-02-26 00:50:01	[Akkiro] [-] Failed to find Client.
+2024-02-26 00:50:01	[Akkiro] [-] Failed to attach.
+2024-02-26 00:50:01	[Akkiro] [+] Created Driver Handle
+2024-02-26 00:50:01	[Akkiro] [-] Failed to find cs2.
+2024-02-26 00:50:01	[Akkiro] [-] Failed to find Client.
+2024-02-26 00:50:01	[Akkiro] [-] Failed to attach.
+2024-02-26 01:00:39	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:00:39	[Akkiro] [+] Found cs2.
+2024-02-26 01:00:39	[Akkiro] [+] Client found.
+2024-02-26 01:00:39	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:00:39	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:00:39	[Akkiro] [+] Found cs2.
+2024-02-26 01:00:39	[Akkiro] [+] Client found.
+2024-02-26 01:00:39	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:00:39	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:00:39	[Akkiro] [+] Found cs2.
+2024-02-26 01:00:39	[Akkiro] [+] Client found.
+2024-02-26 01:00:39	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:00:39	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:00:39	[Akkiro] [+] Found cs2.
+2024-02-26 01:00:39	[Akkiro] [+] Client found.
+2024-02-26 01:00:39	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:00:53	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:00:53	[Akkiro] [+] Found cs2.
+2024-02-26 01:00:53	[Akkiro] [+] Client found.
+2024-02-26 01:00:53	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:00:53	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:00:53	[Akkiro] [+] Found cs2.
+2024-02-26 01:00:53	[Akkiro] [+] Client found.
+2024-02-26 01:00:53	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:00:53	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:00:53	[Akkiro] [+] Found cs2.
+2024-02-26 01:00:53	[Akkiro] [+] Client found.
+2024-02-26 01:00:53	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:00:53	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:00:53	[Akkiro] [+] Found cs2.
+2024-02-26 01:00:53	[Akkiro] [+] Client found.
+2024-02-26 01:00:53	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:04:15	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:04:15	[Akkiro] [+] Found cs2.
+2024-02-26 01:04:15	[Akkiro] [+] Client found.
+2024-02-26 01:04:15	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:04:15	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:04:15	[Akkiro] [+] Found cs2.
+2024-02-26 01:04:15	[Akkiro] [+] Client found.
+2024-02-26 01:04:15	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:04:15	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:04:15	[Akkiro] [+] Found cs2.
+2024-02-26 01:04:15	[Akkiro] [+] Client found.
+2024-02-26 01:04:15	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:04:36	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:04:36	[Akkiro] [+] Found cs2.
+2024-02-26 01:04:36	[Akkiro] [+] Client found.
+2024-02-26 01:04:36	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:04:36	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:04:36	[Akkiro] [+] Found cs2.
+2024-02-26 01:04:36	[Akkiro] [+] Client found.
+2024-02-26 01:04:36	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:04:36	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:04:37	[Akkiro] [+] Found cs2.
+2024-02-26 01:04:37	[Akkiro] [+] Client found.
+2024-02-26 01:04:37	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:05:00	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:05:00	[Akkiro] [+] Found cs2.
+2024-02-26 01:05:00	[Akkiro] [+] Client found.
+2024-02-26 01:05:00	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:05:00	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:05:00	[Akkiro] [+] Found cs2.
+2024-02-26 01:05:00	[Akkiro] [+] Client found.
+2024-02-26 01:05:00	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:05:00	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:05:00	[Akkiro] [+] Found cs2.
+2024-02-26 01:05:00	[Akkiro] [+] Client found.
+2024-02-26 01:05:00	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:06:56	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:06:56	[Akkiro] [+] Found cs2.
+2024-02-26 01:06:56	[Akkiro] [+] Client found.
+2024-02-26 01:06:56	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:06:56	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:06:56	[Akkiro] [+] Found cs2.
+2024-02-26 01:06:56	[Akkiro] [+] Client found.
+2024-02-26 01:06:56	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:06:56	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:06:56	[Akkiro] [+] Found cs2.
+2024-02-26 01:06:56	[Akkiro] [+] Client found.
+2024-02-26 01:06:56	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:06:56	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:06:56	[Akkiro] [+] Found cs2.
+2024-02-26 01:06:56	[Akkiro] [+] Client found.
+2024-02-26 01:06:56	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:08:43	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:08:43	[Akkiro] [+] Found cs2.
+2024-02-26 01:08:43	[Akkiro] [+] Client found.
+2024-02-26 01:08:43	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:08:43	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:08:43	[Akkiro] [+] Found cs2.
+2024-02-26 01:08:43	[Akkiro] [+] Client found.
+2024-02-26 01:08:43	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:08:43	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:08:43	[Akkiro] [+] Found cs2.
+2024-02-26 01:08:43	[Akkiro] [+] Client found.
+2024-02-26 01:08:43	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:08:43	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:08:43	[Akkiro] [+] Found cs2.
+2024-02-26 01:08:43	[Akkiro] [+] Client found.
+2024-02-26 01:08:43	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:21:33	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:21:33	[Akkiro] [+] Found cs2.
+2024-02-26 01:21:33	[Akkiro] [+] Client found.
+2024-02-26 01:21:33	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:21:33	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:21:33	[Akkiro] [+] Found cs2.
+2024-02-26 01:21:33	[Akkiro] [+] Client found.
+2024-02-26 01:21:33	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:21:33	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:21:33	[Akkiro] [+] Found cs2.
+2024-02-26 01:21:33	[Akkiro] [+] Client found.
+2024-02-26 01:21:33	[Akkiro] [+] Attached to cs2.
+2024-02-26 01:21:33	[Akkiro] [+] Created Driver Handle
+2024-02-26 01:21:33	[Akkiro] [+] Found cs2.
+2024-02-26 01:21:33	[Akkiro] [+] Client found.
+2024-02-26 01:21:33	[Akkiro] [+] Attached to cs2.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to find cs2.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to find Client.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to attach.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to find cs2.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to find Client.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to attach.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to find cs2.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to find Client.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to attach.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to find cs2.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to find Client.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to attach.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to find cs2.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to find Client.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to attach.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to find cs2.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to find Client.
+2024-02-26 03:31:59	[Akkiro] [-] Failed to attach.
+2024-02-26 03:35:57	[Akkiro] [+] Created Driver Handle
+2024-02-26 03:35:57	[Akkiro] [+] Found cs2.
+2024-02-26 03:35:57	[Akkiro] [+] Client found.
+2024-02-26 03:35:57	[Akkiro] [+] Attached to cs2.
+2024-02-26 03:35:57	[Akkiro] [+] Created Driver Handle
+2024-02-26 03:35:57	[Akkiro] [+] Found cs2.
+2024-02-26 03:35:57	[Akkiro] [+] Client found.
+2024-02-26 03:35:57	[Akkiro] [+] Attached to cs2.
+2024-02-26 03:35:57	[Akkiro] [+] Created Driver Handle
+2024-02-26 03:35:57	[Akkiro] [+] Found cs2.
+2024-02-26 03:35:57	[Akkiro] [+] Client found.
+2024-02-26 03:35:57	[Akkiro] [+] Attached to cs2.
+2024-02-26 03:35:57	[Akkiro] [+] Created Driver Handle
+2024-02-26 03:35:57	[Akkiro] [+] Found cs2.
+2024-02-26 03:35:57	[Akkiro] [+] Client found.
+2024-02-26 03:35:57	[Akkiro] [+] Attached to cs2.
+2024-02-26 03:35:57	[Akkiro] [+] Created Driver Handle
+2024-02-26 03:35:57	[Akkiro] [+] Found cs2.
+2024-02-26 03:35:57	[Akkiro] [+] Client found.
+2024-02-26 03:35:57	[Akkiro] [+] Attached to cs2.
+2024-02-26 03:35:57	[Akkiro] [+] Created Driver Handle
+2024-02-26 03:35:57	[Akkiro] [+] Found cs2.
+2024-02-26 03:35:57	[Akkiro] [+] Client found.
+2024-02-26 03:35:57	[Akkiro] [+] Attached to cs2.
+2024-02-26 03:37:36	[Akkiro] [+] Created Driver Handle
+2024-02-26 03:37:36	[Akkiro] [+] Found cs2.
+2024-02-26 03:37:36	[Akkiro] [+] Client found.
+2024-02-26 03:37:36	[Akkiro] [+] Attached to cs2.
+2024-02-26 03:37:36	[Akkiro] [+] Created Driver Handle
+2024-02-26 03:37:36	[Akkiro] [+] Found cs2.
+2024-02-26 03:37:36	[Akkiro] [+] Client found.
+2024-02-26 03:37:36	[Akkiro] [+] Attached to cs2.
+2024-02-26 03:37:36	[Akkiro] [+] Created Driver Handle
+2024-02-26 03:37:36	[Akkiro] [+] Found cs2.
+2024-02-26 03:37:36	[Akkiro] [+] Client found.
+2024-02-26 03:37:36	[Akkiro] [+] Attached to cs2.
+2024-02-26 03:37:36	[Akkiro] [+] Created Driver Handle
+2024-02-26 03:37:36	[Akkiro] [+] Found cs2.
+2024-02-26 03:37:36	[Akkiro] [+] Client found.
+2024-02-26 03:37:36	[Akkiro] [+] Attached to cs2.
+2024-02-26 03:37:36	[Akkiro] [+] Created Driver Handle
+2024-02-26 03:37:36	[Akkiro] [+] Found cs2.
+2024-02-26 03:37:36	[Akkiro] [+] Client found.
+2024-02-26 03:37:36	[Akkiro] [+] Attached to cs2.
+2024-02-26 03:37:36	[Akkiro] [+] Created Driver Handle
+2024-02-26 03:37:36	[Akkiro] [+] Found cs2.
+2024-02-26 03:37:36	[Akkiro] [+] Client found.
+2024-02-26 03:37:36	[Akkiro] [+] Attached to cs2.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to find cs2.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to find Client.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to attach.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to find cs2.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to find Client.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to attach.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to find cs2.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to find Client.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to attach.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to find cs2.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to find Client.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to attach.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to find cs2.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to find Client.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to attach.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to find cs2.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to find Client.
+2024-02-26 11:30:12	[Akkiro] [-] Failed to attach.
+2024-02-26 12:08:06	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 12:08:06	[Akkiro] [-] Failed to find cs2.
+2024-02-26 12:08:06	[Akkiro] [-] Failed to find Client.
+2024-02-26 12:08:06	[Akkiro] [-] Failed to attach.
+2024-02-26 12:09:53	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 12:09:53	[Akkiro] [+] Found cs2.
+2024-02-26 12:09:53	[Akkiro] [+] Client found.
+2024-02-26 12:09:53	[Akkiro] [-] Failed to attach.
+2024-02-26 12:17:49	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 12:17:49	[Akkiro] [+] Found cs2.
+2024-02-26 12:17:49	[Akkiro] [+] Client found.
+2024-02-26 12:17:49	[Akkiro] [-] Failed to attach.
+2024-02-26 18:19:26	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:19:26	[Akkiro] [+] Found cs2.
+2024-02-26 18:19:26	[Akkiro] [+] Client found.
+2024-02-26 18:19:26	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:19:26	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:19:26	[Akkiro] [+] Found cs2.
+2024-02-26 18:19:26	[Akkiro] [+] Client found.
+2024-02-26 18:19:26	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:19:26	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:19:26	[Akkiro] [+] Found cs2.
+2024-02-26 18:19:26	[Akkiro] [+] Client found.
+2024-02-26 18:19:26	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:19:26	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:19:26	[Akkiro] [+] Found cs2.
+2024-02-26 18:19:26	[Akkiro] [+] Client found.
+2024-02-26 18:19:26	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:19:26	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:19:26	[Akkiro] [+] Found cs2.
+2024-02-26 18:19:26	[Akkiro] [+] Client found.
+2024-02-26 18:19:26	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:19:26	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:19:26	[Akkiro] [+] Found cs2.
+2024-02-26 18:19:26	[Akkiro] [+] Client found.
+2024-02-26 18:19:26	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:33:21	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:33:21	[Akkiro] [+] Found cs2.
+2024-02-26 18:33:21	[Akkiro] [+] Client found.
+2024-02-26 18:33:21	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:33:21	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:33:21	[Akkiro] [+] Found cs2.
+2024-02-26 18:33:21	[Akkiro] [+] Client found.
+2024-02-26 18:33:21	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:33:21	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:33:21	[Akkiro] [+] Found cs2.
+2024-02-26 18:33:21	[Akkiro] [+] Client found.
+2024-02-26 18:33:21	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:33:21	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:33:21	[Akkiro] [+] Found cs2.
+2024-02-26 18:33:21	[Akkiro] [+] Client found.
+2024-02-26 18:33:21	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:33:21	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:33:21	[Akkiro] [+] Found cs2.
+2024-02-26 18:33:21	[Akkiro] [+] Client found.
+2024-02-26 18:33:21	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:33:21	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:33:21	[Akkiro] [+] Found cs2.
+2024-02-26 18:33:21	[Akkiro] [+] Client found.
+2024-02-26 18:33:21	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:34:01	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:34:01	[Akkiro] [+] Found cs2.
+2024-02-26 18:34:01	[Akkiro] [+] Client found.
+2024-02-26 18:34:01	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:34:01	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:34:01	[Akkiro] [+] Found cs2.
+2024-02-26 18:34:01	[Akkiro] [+] Client found.
+2024-02-26 18:34:01	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:34:01	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:34:01	[Akkiro] [+] Found cs2.
+2024-02-26 18:34:01	[Akkiro] [+] Client found.
+2024-02-26 18:34:01	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:34:01	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:34:01	[Akkiro] [+] Found cs2.
+2024-02-26 18:34:01	[Akkiro] [+] Client found.
+2024-02-26 18:34:01	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:34:01	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:34:01	[Akkiro] [+] Found cs2.
+2024-02-26 18:34:01	[Akkiro] [+] Client found.
+2024-02-26 18:34:01	[Akkiro] [+] Attached to cs2.
+2024-02-26 18:34:01	[Akkiro] [+] Created Driver Handle
+2024-02-26 18:34:01	[Akkiro] [+] Found cs2.
+2024-02-26 18:34:01	[Akkiro] [+] Client found.
+2024-02-26 18:34:01	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:37:53	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:37:53	[Akkiro] [+] Found cs2.
+2024-02-26 20:37:53	[Akkiro] [+] Client found.
+2024-02-26 20:37:53	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:37:53	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:37:53	[Akkiro] [+] Found cs2.
+2024-02-26 20:37:53	[Akkiro] [+] Client found.
+2024-02-26 20:37:53	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:37:53	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:37:53	[Akkiro] [+] Found cs2.
+2024-02-26 20:37:53	[Akkiro] [+] Client found.
+2024-02-26 20:37:53	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:37:53	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:37:53	[Akkiro] [+] Found cs2.
+2024-02-26 20:37:53	[Akkiro] [+] Client found.
+2024-02-26 20:37:53	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:37:53	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:37:53	[Akkiro] [+] Found cs2.
+2024-02-26 20:37:53	[Akkiro] [+] Client found.
+2024-02-26 20:37:53	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:37:53	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:37:53	[Akkiro] [+] Found cs2.
+2024-02-26 20:37:53	[Akkiro] [+] Client found.
+2024-02-26 20:37:53	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:41:16	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:41:16	[Akkiro] [+] Found cs2.
+2024-02-26 20:41:16	[Akkiro] [+] Client found.
+2024-02-26 20:41:16	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:47:41	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:47:41	[Akkiro] [+] Found cs2.
+2024-02-26 20:47:41	[Akkiro] [+] Client found.
+2024-02-26 20:47:41	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:47:41	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:47:41	[Akkiro] [+] Found cs2.
+2024-02-26 20:47:41	[Akkiro] [+] Client found.
+2024-02-26 20:47:41	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:47:41	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:47:41	[Akkiro] [+] Found cs2.
+2024-02-26 20:47:41	[Akkiro] [+] Client found.
+2024-02-26 20:47:41	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:47:41	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:47:41	[Akkiro] [+] Found cs2.
+2024-02-26 20:47:41	[Akkiro] [+] Client found.
+2024-02-26 20:47:41	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:47:41	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:47:41	[Akkiro] [+] Found cs2.
+2024-02-26 20:47:41	[Akkiro] [+] Client found.
+2024-02-26 20:47:41	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:47:41	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:47:41	[Akkiro] [+] Found cs2.
+2024-02-26 20:47:41	[Akkiro] [+] Client found.
+2024-02-26 20:47:41	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:49:48	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:49:48	[Akkiro] [+] Found cs2.
+2024-02-26 20:49:48	[Akkiro] [+] Client found.
+2024-02-26 20:49:48	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:49:48	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:49:48	[Akkiro] [+] Found cs2.
+2024-02-26 20:49:48	[Akkiro] [+] Client found.
+2024-02-26 20:49:48	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:49:48	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:49:48	[Akkiro] [+] Found cs2.
+2024-02-26 20:49:48	[Akkiro] [+] Client found.
+2024-02-26 20:49:48	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:49:48	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:49:48	[Akkiro] [+] Found cs2.
+2024-02-26 20:49:48	[Akkiro] [+] Client found.
+2024-02-26 20:49:48	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:49:48	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:49:48	[Akkiro] [+] Found cs2.
+2024-02-26 20:49:48	[Akkiro] [+] Client found.
+2024-02-26 20:49:48	[Akkiro] [+] Attached to cs2.
+2024-02-26 20:49:48	[Akkiro] [+] Created Driver Handle
+2024-02-26 20:49:48	[Akkiro] [+] Found cs2.
+2024-02-26 20:49:48	[Akkiro] [+] Client found.
+2024-02-26 20:49:48	[Akkiro] [+] Attached to cs2.
+2024-02-26 21:04:21	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 21:04:21	[Akkiro] [+] Found cs2.
+2024-02-26 21:04:21	[Akkiro] [+] Client found.
+2024-02-26 21:04:21	[Akkiro] [-] Failed to attach.
+2024-02-26 21:04:21	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 21:04:21	[Akkiro] [+] Found cs2.
+2024-02-26 21:04:21	[Akkiro] [+] Client found.
+2024-02-26 21:04:21	[Akkiro] [-] Failed to attach.
+2024-02-26 21:04:21	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 21:04:21	[Akkiro] [+] Found cs2.
+2024-02-26 21:04:21	[Akkiro] [+] Client found.
+2024-02-26 21:04:21	[Akkiro] [-] Failed to attach.
+2024-02-26 21:04:21	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 21:04:21	[Akkiro] [+] Found cs2.
+2024-02-26 21:04:21	[Akkiro] [+] Client found.
+2024-02-26 21:04:21	[Akkiro] [-] Failed to attach.
+2024-02-26 21:04:21	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 21:04:21	[Akkiro] [+] Found cs2.
+2024-02-26 21:04:21	[Akkiro] [+] Client found.
+2024-02-26 21:04:21	[Akkiro] [-] Failed to attach.
+2024-02-26 21:04:21	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 21:04:21	[Akkiro] [+] Found cs2.
+2024-02-26 21:04:21	[Akkiro] [+] Client found.
+2024-02-26 21:04:21	[Akkiro] [-] Failed to attach.
+2024-02-26 21:04:37	[Akkiro] [+] Created Driver Handle
+2024-02-26 21:04:37	[Akkiro] [+] Found cs2.
+2024-02-26 21:04:37	[Akkiro] [+] Client found.
+2024-02-26 21:04:37	[Akkiro] [+] Attached to cs2.
+2024-02-26 21:04:37	[Akkiro] [+] Created Driver Handle
+2024-02-26 21:04:37	[Akkiro] [+] Found cs2.
+2024-02-26 21:04:37	[Akkiro] [+] Client found.
+2024-02-26 21:04:37	[Akkiro] [+] Attached to cs2.
+2024-02-26 21:04:37	[Akkiro] [+] Created Driver Handle
+2024-02-26 21:04:37	[Akkiro] [+] Found cs2.
+2024-02-26 21:04:37	[Akkiro] [+] Client found.
+2024-02-26 21:04:37	[Akkiro] [+] Attached to cs2.
+2024-02-26 21:04:37	[Akkiro] [+] Created Driver Handle
+2024-02-26 21:04:37	[Akkiro] [+] Found cs2.
+2024-02-26 21:04:37	[Akkiro] [+] Client found.
+2024-02-26 21:04:37	[Akkiro] [+] Attached to cs2.
+2024-02-26 21:04:37	[Akkiro] [+] Created Driver Handle
+2024-02-26 21:04:37	[Akkiro] [+] Found cs2.
+2024-02-26 21:04:37	[Akkiro] [+] Client found.
+2024-02-26 21:04:37	[Akkiro] [+] Attached to cs2.
+2024-02-26 21:04:37	[Akkiro] [+] Created Driver Handle
+2024-02-26 21:04:37	[Akkiro] [+] Found cs2.
+2024-02-26 21:04:37	[Akkiro] [+] Client found.
+2024-02-26 21:04:37	[Akkiro] [+] Attached to cs2.
+2024-02-26 21:52:02	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 21:52:02	[Akkiro] [+] Found cs2.
+2024-02-26 21:52:02	[Akkiro] [+] Client found.
+2024-02-26 21:52:02	[Akkiro] [-] Failed to attach.
+2024-02-26 21:52:02	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 21:52:02	[Akkiro] [+] Found cs2.
+2024-02-26 21:52:02	[Akkiro] [+] Client found.
+2024-02-26 21:52:02	[Akkiro] [-] Failed to attach.
+2024-02-26 21:52:02	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 21:52:02	[Akkiro] [+] Found cs2.
+2024-02-26 21:52:02	[Akkiro] [+] Client found.
+2024-02-26 21:52:02	[Akkiro] [-] Failed to attach.
+2024-02-26 21:52:02	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 21:52:02	[Akkiro] [+] Found cs2.
+2024-02-26 21:52:02	[Akkiro] [+] Client found.
+2024-02-26 21:52:02	[Akkiro] [-] Failed to attach.
+2024-02-26 21:52:02	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 21:52:02	[Akkiro] [+] Found cs2.
+2024-02-26 21:52:02	[Akkiro] [+] Client found.
+2024-02-26 21:52:02	[Akkiro] [-] Failed to attach.
+2024-02-26 21:52:02	[Akkiro] [-] Failed to get Driver Handle.
+2024-02-26 21:52:02	[Akkiro] [+] Found cs2.
+2024-02-26 21:52:02	[Akkiro] [+] Client found.
+2024-02-26 21:52:02	[Akkiro] [-] Failed to attach.
